@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 오늘 하루도 수고 많으셨...</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>응? 어딜 보고 계시냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>(어두운 뒷골목 쪽에서 누군가 깡패에게 
+돈을 빼앗기고 있다. 주변에는 아무도 없는 것 같다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>으, 으으...저런 나쁜...</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>하지만... 저런 일에 휘말려도 괜찮을지냥...</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>후보님, 어떻게 하지옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>CHECK</type>
+		<checkState>조금 더 고민한다</checkState>
+		<checkValue>돕는다</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>FAIL</type>
+		<talk>흐음… 어떻게 하는 게 좋을까옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>FAIL</type>
+		<talk>아, 아앗! </talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>FAIL</type>
+		<talk>우리가 고민하는 사이에 경찰들이 들이닥쳤다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>FAIL</type>
+		<talk>냥… 결국 우리는 나서보지도 못했다옹...</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>후보님의 미담을 알릴 기회를 날린 것 같아 아쉽지만…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>어쨌든 잘 해결되서 다행이라옹~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>후보님, 너무 아쉬워 하지 말고 돌아가시자냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보는 아쉽게 돌아섰다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(도울 걸 그랬나…? 아쉬운 마음에 미련이 남아, 카리스마가 2 하락했다…)</talk>
+		<upState>CHAR</upState>
+		<upPoint>-2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>END</type>
+		<talk>끝</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>SUCCESS</type>
+		<talk>후보님! 자, 잠깐! 같이 가자옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>SUCCESS</type>
+		<talk>(...잠시 후...)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>SUCCESS</type>
+		<talk>(경찰차가 사이렌을 울리며 도착했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>후보님, 괜찮으시냐옹!! 경찰을 불러왔다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>이야, 위험할 수도 있는 상황에 뛰어들다니...</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>후보님, 카리스마가 대단하시다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>돈을 빼앗겼던 시민도 후보님에게 감사 인사를 전했다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>후보님의 선행이 여기저기 알려지면 좋겠다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 카리스마로 정의를 구현할 수 있었다. 
+자신감에 체력이 10 붙었다!)</talk>
+		<upState>HP</upState>
+		<upPoint>10</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>END</type>
+		<talk>끝</talk>
+	</xmlAlice>
+</ArrayOfDialogTable>

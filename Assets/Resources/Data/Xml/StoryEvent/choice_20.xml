@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>(시끌벅적한 번화가에서의 두 번째 일정을 마치고 돌아가는 길...)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>후보님, 인파가 정말 많으니 조심하시라냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>그나저나, 역시 번화가답게 먹을 것도 많고, 볼 것도 많다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>해외 여행객들도 많이 보인다냥. 다들 즐거워 보인다옹~&gt;ㅅ&lt;</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>…오옹? 후보님? </talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>하마터면 놓칠 뻔 했잖냐옹! 깜짝 놀랬다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>그런데 후보님, 뭘 그렇게 뚫어지게 보고 있으셨던 거냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>CHECK</type>
+		<checkState>버스킹</checkState>
+		<checkValue>포장마차</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>FAIL</type>
+		<talk>오옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>FAIL</type>
+		<talk>아! 저쪽에 거리 공연을 하는 분이 있다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>FAIL</type>
+		<talk>후보님, 음악을 듣고 계셨던 거군냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>FAIL</type>
+		<talk>그럼, 잠시만 더 듣고 가시겠냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보와 총무냥은 노래가 흘러나오는 쪽으로 다가가,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>(아름다운 노래소리에 시간 가는 줄 모르고 공연을 지켜보다 돌아왔다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>(그리고 다음날…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>앗, 후보님! 잠깐 이것 좀 보시라옹!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(총무냥이 보고 있던 것은 어제 번화가에서 
+음악을 감상하고 있던 고양이 후보의 영상이었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>FAIL</type>
+		<talk>(바쁜 선거운동 와중에도 아름다운 음악에 귀를 기울이는 고양이 후보의 영상 밑에,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>FAIL</type>
+		<talk>(후보의 섬세한 감성을 칭찬하는 많은 댓글이 달려 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>FAIL</type>
+		<talk>(아름다운 음악 덕분에, 후보의 문화지식이 2 상승했다!)</talk>
+		<upState>CUR</upState>
+		<upPoint>2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>앗, 저쪽에 포장 마차가 있었구나옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>후보님, 배가 고프신 거였냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>잠시 들렀다 가보시겠냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>(후보와 총무냥은 홀린듯이 번화가의 포장마차로 향했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>(포장마차 안에는 퇴근을 한 회사원들이 
+삼삼오오 모여 늦은 저녁을 먹고 있었고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(우연히 자리를 함께하게 된 고양이 후보는 
+그들에게 직장인의 애환에 대해 자세히 들을 수 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>(포장마차에 들른 덕에, 고양이 후보의 경제지식이 2 상승했다!)</talk>
+		<upState>ECO</upState>
+		<upPoint>2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

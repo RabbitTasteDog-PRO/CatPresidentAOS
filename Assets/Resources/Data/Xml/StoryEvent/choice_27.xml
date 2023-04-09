@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보니이이임… 으냐앙…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>(아침 일정을 마치고 돌아오는 고양이 후보의 눈 앞에, 
+총무냥이 울상을 하고 서 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>정말 밉다냥… 하필 이런 사진을… 우냐앙… 8ㅅ8</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>누군가가 후보님이 유세 현장에서 넘어지는 모습을 절묘하게 캡쳐해서,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>여기저기 우스꽝스러운 곳에 '짤'로 사용하고 있다옹! ㅠㅅㅠ</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>우웅…저 총무냥, 정말 화가 난다옹…! 하악…!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>후보님, 이런 사진은 인터넷에서 당장 지우는 게 좋지 않을까옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>물론 선택은 후보님의 몫이지만…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>가만히 있다가는 후보님의 댄디하고 
+세련된 이미지가 엉망이 되게 생겼다옹! 8ㅅ8</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>CHECK</type>
+		<checkState>삭제를 요청한다</checkState>
+		<checkValue>자신의 SNS에 올린다</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>FAIL</type>
+		<talk>그렇지옹! 당연한 거라옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>FAIL</type>
+		<talk>그럼 당장 삭제 요청을 접수하고 오겠다냥!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>(며칠 후, 고양이 후보의 우스꽝스러운 사진이 사이트에서 삭제되었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>(총무냥은 이제야 발뻗고 잘 수 있겠다며 기뻐했지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>(그 이후에 이렇다할 네티즌의 반응이 전혀 없었던 것을 보면)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>(아무래도 그 사진에 관심을 가졌던 건 총무냥과 의문의 네티즌 단 둘 뿐이었던 것 같다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(이렇게 아무 일도 없이 이번 사건이 일단락되었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>에엣… 후보님, 진심이냐옹?!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>그 요상한…아니… 어쨌든 그 사진을,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>다 지워버려도 모자랄 판에, SNS에 올리시겠다구옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>정말, 이번만큼은 저 총무냥, 후보님을 이해할 수가 없다옹…0ㅁ0…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 자신의 사진을 SNS에 게시하고는,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>(솔직히 내가 봐도 웃기긴 하다는 내용의 짧은 코멘트를 달았다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>SUCCESS</type>
+		<talk>(후보의 이러한 반응은 각종 커뮤니티에 빠르게 퍼져나갔고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 재치를 칭찬하는 여론과)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>SUCCESS</type>
+		<talk>(이런 모습을 교묘하게 캡쳐하다니 너무하다는 여론 등 다양한 반응을 낳았다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>SUCCESS</type>
+		<talk>(어쨌든 화제를 모은 것은 사진 자체보다 후보의 반응이었기에,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>32</index>
+		<type>SUCCESS</type>
+		<talk>(다행스럽게도(?) 총무냥이 걱정한 우스꽝스러운 사진은 
+얼마 지나지 않아 자취를 감추었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>33</index>
+		<type>SUCCESS</type>
+		<talk>(후보의 SNS팔로워가 조금 더 늘어난 것으로 사건은 일단락되었고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>34</index>
+		<type>SUCCESS</type>
+		<talk>(후보의 인지도도 그 덕에 3 상승했다.)</talk>
+		<upState>AWAR</upState>
+		<upPoint>3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>35</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

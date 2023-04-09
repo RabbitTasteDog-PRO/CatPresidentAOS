@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 수고하셨다옹~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>하지만 아직 오늘의 일정은 끝나지 않았다냥!ㅍㅅㅍ</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>자 그럼, 오늘의 두 번째 일정은…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>"오피스상가"앞에서의 유세 일정이 되겠다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>오피스 상가라면 아무래도, 인파가 몰리는 시간과 
+그렇지 않은 시간이 명확하게 나뉘는 편이니…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>시간을 잘 예측하고 가는 것이 관건이 되겠지옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>저 총무냥이 제안하는 타임은 두 가지가 있다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>하나는 바로 잠시 후! 회사원들이 점심을 먹고 나올 때쯤을 노리는 거고...</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>또 하나는 저녁시간! 회사원들이 퇴근하는 시간을 겨냥하는 거라옹~!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>두 시간 모두 붐비는 시간이 될 거라는 점은 이 총무냥이 확.실.히 보장한다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>NORMAL</type>
+		<talk>자아, 그럼 후보님, 골라주시라냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>NORMAL</type>
+		<talk>오피스 상가에서의 유세 시간,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>NORMAL</type>
+		<talk>어느 타이밍이 더 적절하겠냐옹~?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>CHECK</type>
+		<checkState>점심시간</checkState>
+		<checkValue>퇴근시간</checkValue>
+		<checkL>SUCCESS</checkL>
+		<checkR>FAIL</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>SUCCESS</type>
+		<talk>아앗, 점심시간이라면… 바로 지금이다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>SUCCESS</type>
+		<talk>정해졌으면, 얼른얼른 움직이자옹!! 0ㅅ0</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 곧바로 오피스 상가로 향했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>SUCCESS</type>
+		<talk>(오피스 상가 근처는 점심을 먹고 산책중인 회사원들로 붐볐고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>SUCCESS</type>
+		<talk>(마침 나른한 오후의 졸음과 사투 중이던 회사원들은)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>SUCCESS</type>
+		<talk>(반짝 이벤트처럼 찾아온 고양이 후보의 유세를 눈여겨보기 시작했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>SUCCESS</type>
+		<talk>(아무래도 최적의 타이밍을 잡은 것 같다!)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>(오피스상권에서의 유세가 성공하며, 고양이 후보의 경제관련 지식이 4 올랐다!)</talk>
+		<upState>ECO</upState>
+		<upPoint>4</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>FAIL</type>
+		<talk>퇴근시간이라면, 아직 여유가 있다냥.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>FAIL</type>
+		<talk>그럼, 간만에 잠시 쉬다가 이동하실까옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보는 잠시 휴식시간을 가지다 퇴근 시간에 맞춰 오피스 상가로 향했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>FAIL</type>
+		<talk>(오피스 상가 근처는 퇴근중인 회사원들로 붐비고 있었지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>FAIL</type>
+		<talk>(다들 얼른 집에 가고 싶은 마음이 너무 컸던 나머지)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 열정적인 유세 내용을 제대로 듣지 않고 지나쳐갔다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>FAIL</type>
+		<talk>(아무래도 타이밍을 잘못 잡은 것 같다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>FAIL</type>
+		<talk>(오피스상권에서의 유세가 실패하며, 고양이후보의 경제지식이 2만큼 떨어졌다…)</talk>
+		<upState>ECO</upState>
+		<upPoint>-2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

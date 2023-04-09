@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>(선거사무소로 돌아가는 중…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>이야, 후보님! 오늘 일정은 정말 성공적이었다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>이대로만 가면 정말 좋은 결과를 기대해볼 수 있을 것 같다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>아참, 그러고 보니 말인데냥…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>요즘 유세 현장에서 간혹 불만이 접수되는 경우가 있다냥…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>후보님을 좋아하지 않는 누군가,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>일부러 후보님의 유세 현장을 따라다니면서 대중들을 괴롭히는 것 같다옹.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>참 골치아픈 사건인데… </talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>너무 일이 커지는 것을 원하지 않는다면 
+상황을 조금 더 지켜보는 법도 있고…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>제대로 맞붙어 보고 싶다면, 
+유세 현장에서 직접 이 사건을 언급하는 방법도 있다냥.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>NORMAL</type>
+		<talk>어떻게 하면 좋을까냥…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>CHECK</type>
+		<checkState>언급한다</checkState>
+		<checkValue>지켜본다</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>아앗, 그게 진심이냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>후보님이 직접 나선다니… 확실히 효과는 있을 것 같지만…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>과연 괜찮을까냥…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>흐음, 한번 해보는 수밖에 없겠지옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(다음날, 후보는 유세현장에서 직접 불만 사례에 대한 이야기를 꺼냈다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>FAIL</type>
+		<talk>(그러나, 그것이 오히려 안티팬의 심기를 건드려 버린 모양이었다…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>FAIL</type>
+		<talk>(안티팬은 큰 소리로 난동을 부리기 시작했고, 
+결국 그날의 유세는 엉망이 되었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>FAIL</type>
+		<talk>(긁어 부스럼을 만들어 버린 고양이 후보의 화술이 2 떨어졌다…)</talk>
+		<upState>TALK</upState>
+		<upPoint>-2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>END</type>
+		<talk>끝</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>흐음… 아무래도 그렇지냥…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>대놓고 말한다면 당시에야 잠깐 조용해질 수는 있겠지만,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>결국 그 동물은 영원히 후보님의 안티가 되어 버리는 거라냥…!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>그럼, 조금만 더 상황을 지켜보도록 하시지옹.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 조심스럽게 상황을 지켜보았다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(며칠 후, 고양이 후보의 유세 현장에서 
+난동을 부리던 범인이 잡혔다는 뉴스가 나왔고)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>(덕분에 고양이 후보는 피해자의 입장이 되어 
+대중의 동정여론을 얻었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>SUCCESS</type>
+		<talk>(이번 사건으로 후보의 인지도가 2 올랐다!)</talk>
+		<upState>AWAR</upState>
+		<upPoint>2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>END</type>
+		<talk>끝</talk>
+	</xmlAlice>
+</ArrayOfDialogTable>

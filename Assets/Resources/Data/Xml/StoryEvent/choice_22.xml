@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 수고하셨다냥. </talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>이제 다음 일정으로 바로 이동하겠다냥! 얼른 타시라냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>아, 참고로 다음 일정은…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>…후보님? 괜찮으시냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>아무래도 계속된 일정 탓에 피로가 많이 누적된 것 같다냥…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>요즘 잠도 충분히 주무시지 못하고 있지 않냐옹…ㅠㅅㅠ</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>음...다음 일정으로 이동하는데까지는 30분 정도가 걸린다냥.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>지역 행사 일정이다보니 행사 대본을 미리 읽어 두시면 도움이 되겠지만…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>아무래도 제가 볼 때는 일단 30분이라도 눈을 붙이시는 게 더 나을 것 같다옹.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>그럼, 어떻게 하시겠냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>CHECK</type>
+		<checkState>잠시 잠을 잔다</checkState>
+		<checkValue>잠을 자지 않는다</checkValue>
+		<checkL>SUCCESS</checkL>
+		<checkR>FAIL</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>SUCCESS</type>
+		<talk>잘 생각하셨다냥! 역시 잠이 보약이다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>SUCCESS</type>
+		<talk>그럼, 방해하지 않을 테니 조금이라도 얼른 주무시라옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 이동하는 길에 짧은 쪽잠을 잤다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>SUCCESS</type>
+		<talk>(잠시 후, 고양이 후보가 참여하는 지역 행사의 막이 올랐고)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>SUCCESS</type>
+		<talk>(비록 대본을 완벽하게 숙지하지는 못했지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>SUCCESS</type>
+		<talk>(짧게나마 잠을 보충한 덕분에)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 최대의 집중력을 이용하여 무사히 행사를 마칠 수 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>SUCCESS</type>
+		<talk>(성공적으로 행사에 참여한 덕에,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 인지도가 2 올랐다!)</talk>
+		<upState>AWAR</upState>
+		<upPoint>2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>FAIL</type>
+		<talk>후보님, 정말 괜찮겠냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>FAIL</type>
+		<talk>대본 숙지도 중요하지만, 후보님의 컨디션도 중요한데옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>FAIL</type>
+		<talk>…일단 알겠다냥, 그럼 바로 다음 장소로 이동하겠다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보는 이동하는 길에 
+다음 일정에 관한 대본을 체크하며 시간을 보냈다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>FAIL</type>
+		<talk>(잠시 후, 고양이 후보가 참여하는 지역 행사의 막이 올랐고)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>FAIL</type>
+		<talk>(대본을 완벽하게 숙지했다고 생각했음에도 불구하고)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>FAIL</type>
+		<talk>(제대로 쉬지 못한 탓인지 고양이 후보는 연신 말실수를 연발했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>FAIL</type>
+		<talk>(다행히 커다란 대형사고는 치지 않았지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>FAIL</type>
+		<talk>(억지로 간신히 일정을 마무리한 느낌이다…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>FAIL</type>
+		<talk>(미숙한 행사진행으로, 고양이 후보의 화술이 3 하락하였다…)</talk>
+		<upState>TALK</upState>
+		<upPoint>-3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

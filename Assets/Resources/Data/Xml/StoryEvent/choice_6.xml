@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>(일정을 마치고 돌아가는 차 안.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>후보님, 후보님!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>아이 참, 지금 주무실 때가 아니라냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>이게 뭔지 아시냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>무려!! 후보님에게 온 팬레터!!다냥!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>팬…이라고 부르는게 맞을지는 모르겠지만,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>어쨌든 후보님을 응원하는 어린이에게서 온 편지라구옹~&gt;ㅅ&lt;</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>아아, 이런 일도 있고, 정말 묘생은 살고 볼 일이다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>그나저나 이 편지, 아이가 보낸 거라고 하는데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>답장을 보내 주는 게 좋겠지옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>NORMAL</type>
+		<talk>어떤 식으로 답장을 보내고 싶으신가옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>CHECK</type>
+		<checkState>친근한 말투로</checkState>
+		<checkValue>진지하게</checkValue>
+		<checkL>SUCCESS</checkL>
+		<checkR>FAIL</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>SUCCESS</type>
+		<talk>역시 아이들에게는 눈높이를 맞춘 친근함이 제일이겠지냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>SUCCESS</type>
+		<talk>그럼, 후보님, 답장을 부탁한다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>SUCCESS</type>
+		<talk>(후보는 정성들여 답장을 썼다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>SUCCESS</type>
+		<talk>(몇주 후, 인터넷에는 [한 후보의 감동 편지]라는 제목의 게시글이 올라왔고)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>SUCCESS</type>
+		<talk>(그곳에는 고양이 후보에게 답장을 받고 뛸 듯이 기뻐하는 아이의 이야기가 쓰여 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>SUCCESS</type>
+		<talk>(보기만 해도 흐뭇한 훈훈한 미담에)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 인지도가 3 올라갔다!)</talk>
+		<upState>AWAR</upState>
+		<upPoint>3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>FAIL</type>
+		<talk>아앗, 진지하게 답장을 보내시겠다구옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>FAIL</type>
+		<talk>하지만 상대는 아이인데, 괜찮을까냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>FAIL</type>
+		<talk>으음, 솔직히 저는 잘 모르겠지만…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>FAIL</type>
+		<talk>후보님이 그렇게 생각하신다면, 뭐…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>FAIL</type>
+		<talk>그러면 편지지를 준비하겠다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>FAIL</type>
+		<talk>(후보는 정성들여 답장을 썼다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>FAIL</type>
+		<talk>(몇주 후, 인터넷에는 [한 후보의 엉뚱 편지]라는 제목의 게시글이 올라왔고)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>FAIL</type>
+		<talk>(그곳에는 고양이 후보에게 받은 편지를 이해하지 못해 
+어리둥절하는 아이의 이야기가 쓰여 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>FAIL</type>
+		<talk>(몇몇 네티즌은 아이를 상대로 너무 어려운 편지를 썼다고 비판하기도 했지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>FAIL</type>
+		<talk>(대부분은 아이에게도 진지한 태도를 잃지 않는 고양이 후보의 모습에서)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>FAIL</type>
+		<talk>(오히려 진실성이 느껴진다며 좋아하는 분위기였다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>FAIL</type>
+		<talk>(누구에게나 최선을 다하는 고양이 후보의 모습에,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>32</index>
+		<type>FAIL</type>
+		<talk>(후보의 성품이 3 올라갔다!)</talk>
+		<upState>NATU</upState>
+		<upPoint>3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>33</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

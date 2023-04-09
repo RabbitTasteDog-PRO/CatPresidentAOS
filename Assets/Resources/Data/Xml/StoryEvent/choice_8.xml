@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 오늘 하루도 수고하셨다옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>그런데 혹시, 이거 보셨나옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>(총무냥은 핸드폰 기사를 보여주었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>(경쟁 정당 중 하나인 강한멍멍당에서 
+고양이 후보를 비방하는 영상을 올렸다는 기사였다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>이런 유언비어를 퍼뜨리다니, 너무하다옹~!! 8ㅅ8</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>조금만 읽어봐도 논리가 부족하다는 걸 
+알 수 있을만한 내용이긴 하지만…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>하지만 이대로 그냥 두는 것도 후보님의 이미지에 
+좋을 것 같아 보이지는 않는다옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>지금이라도 반박 영상을 올리는 게 좋을까냥?ㅠㅅㅠ</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>CHECK</type>
+		<checkState>그냥 둔다</checkState>
+		<checkValue>반박한다</checkValue>
+		<checkL>SUCCESS</checkL>
+		<checkR>FAIL</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>SUCCESS</type>
+		<talk>어라, 후보님, 따로 반박하지 않는 거냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>SUCCESS</type>
+		<talk>뭐, 싸울 가치도 없는 이야기이긴 하지만…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>SUCCESS</type>
+		<talk>아무쪼록 대중들이 잘 판단해주길 바래야겠다옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 강한멍멍당의 주장에 아무런 반응을 보이지 않았다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>SUCCESS</type>
+		<talk>(네티즌은 강한멍멍당의 주장에 논리가 부족하다는 쪽과)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>SUCCESS</type>
+		<talk>(냥냥당의 고양이 후보 역시 무언가 켕기는 게 있어서 
+조용한 게 아니냐는 입장으로 나뉘었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>SUCCESS</type>
+		<talk>(그러나 오래 가지 않아 곧 강한멍멍당의 주장을 뒤집는 증거가 발견되었고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>SUCCESS</type>
+		<talk>(거짓으로 고양이 후보의 이미지를 깎아내리려 했던 
+강한멍멍당은 큰 비판을 받았다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>SUCCESS</type>
+		<talk>(선거를 진흙탕 싸움으로 만들지 않은 고양이 후보의 대응에, 
+대중들은 박수를 보냈다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 카리스마가 3 상승했다!)</talk>
+		<upState>CHAR</upState>
+		<upPoint>3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>FAIL</type>
+		<talk>으음, 역시 눈에는 눈, 이에는 이라는 전략인가옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>FAIL</type>
+		<talk>어찌됐든 우리가 그렇게 호락호락한 상대가 아니라는 점을
+똑똑히 보여줄 필요는 있을 것 같다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>FAIL</type>
+		<talk>그럼, 곧바로 반박 영상을 준비하도록 하겠다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보와 냥냥당은 곧바로 강한멍멍당을 비판하는 영상을 게시했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>FAIL</type>
+		<talk>(두 정당의 기싸움은 며칠간 지속되었고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>FAIL</type>
+		<talk>(처음에는 누가 옳고 누가 그른지 흥미를 가지고 지켜보던 대중들도)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>FAIL</type>
+		<talk>(계속해서 이어지는 정당싸움에 피로감을 느끼고 멀어져갔다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>FAIL</type>
+		<talk>(결국, 두 정당 모두 얻은 게 없는 무의미한 싸움이 되고 만 것 같다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>FAIL</type>
+		<talk>(대중들의 공감대를 이끌어내지 못한 탓에,
+후보의 문화지식이 2만큼 하락했다…)</talk>
+		<upState>CUR</upState>
+		<upPoint>-2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

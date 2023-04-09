@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 일정 수고하셨다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>오늘 오후에는 지역 마라톤 대회 일정이 있는데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>짧은 약식 코스만이라도 후보님이 함께 뛰는 모습을 연출하시는 것이…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>…으응?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>후보님, 다리가 왜 그러시냐옹?!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>…오전에 다리를 삐끗하셨다구옹???!!!!! 0ㅁ0;;;</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>괘, 괜찮으시냐옹!!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>호들갑이 아니라냥, 제가 제대로 살피지 못한 탓이라냥ㅠㅅㅠ</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>그나저나, 난감하게 돼 버렸다옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>이미 마라톤 대회 주최측에 참가 의사를 밝혔는데,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>NORMAL</type>
+		<talk>지금이라도 일정을 취소하는 게 좋을까옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>CHECK</type>
+		<checkState>참가한다</checkState>
+		<checkValue>참가하지 않는다</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>아아, 무리하실 필요는…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>…알겠다옹. 하지만 절대절대 무리하면 안 된다냥! ㅠㅅㅠ</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>(후보는 불편한 발을 이끌고 마라톤 대회에 참가했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(그러나 열심히 하고픈 마음과는 달리, 따라주지 않는 몸의 컨디션은 어쩔 수가 없었고…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>FAIL</type>
+		<talk>(대회에 참가한 대중들은 아픈 후보를 억지로 행사에 참여시키는
+냥냥당을 비판하기 시작했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>FAIL</type>
+		<talk>(후보 자신에 대한 비판이 없었던 게 다행이라면 다행이랄까…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>FAIL</type>
+		<talk>(하지만 어쨌든 소득은 별로 없었던 것 같다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>FAIL</type>
+		<talk>(오히려 다친 다리를 이끌고 뛴 덕에, 체력만 3 낭비되었다…)</talk>
+		<upState>HP</upState>
+		<upPoint>-3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>으응, 이해한다냥.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>지금 후보님은 선거까지 장거리를 달리고 있는 선수나 마찬가지인데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>본인의 컨디션을 챙기지 못하고 하루의 일정에서 너무 무리해버린다면</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>선거라는 긴 거리를 성공적으로 완주하지 못할 지도 모르지옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>안타깝지만, 이번 일정은 취소하는 걸로 전달하도록 하겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보측은 마라톤 주최측에게 사정을 설명했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>SUCCESS</type>
+		<talk>(참가 예정 기사를 접한 대중들은 갑작스러운 일정 취소에 의아했지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>SUCCESS</type>
+		<talk>(곧 정확한 사정을 전해듣고는 고양이 후보의 건강을 걱정하는 여론이 증가했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>SUCCESS</type>
+		<talk>(일정은 취소되었지만, 아이러니하게도 후보의 인지도는 2 상승했다!)</talk>
+		<upState>AWAR</upState>
+		<upPoint>2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

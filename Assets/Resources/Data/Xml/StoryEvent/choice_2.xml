@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>아아~ 오늘도 정말 바쁘다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>이제 딱 한 곳만 더 들르면 오늘 하루도 끝날 것 같은데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>지금 우리가 갈 수 있는 장소는 두 군데라냥.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>한 곳은 근처에 있는 군부대, 다른 한 곳은 전통시장이라냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>군부대에 가면 후보님의 [카리스마]를 확실히 어필할 수 있을 거고,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>전통시장은 아무래도 [인지도]를 올리는 데 제격이겠지옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>흐음… 마음 같아서는 두 곳 다 들러 보고 싶지만, 곧 해가 질 것 같다옹.ㅠㅅㅠ</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>딱 한 곳만 선택할 수 있는데, 어떻게 하면 좋을까냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>CHECK</type>
+		<checkState>전통시장으로!</checkState>
+		<checkValue>군부대로!</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>FAIL</type>
+		<talk>전통시장? 괜찮을까냥? 알겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>FAIL</type>
+		<talk>기사님, 전통시장으로 부탁한다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>FAIL</type>
+		<talk>(…잠시 후…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>후보님, 도착했다냥! …응?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>이런… 시장에 동물이 아무도 없다냥…!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>하필 오늘이 정기 휴무일이라고 한다옹…8ㅅ8</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>이럴 줄 알았으면 군부대로 갈 걸 그랬다냥…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>어쩔 수 없지옹… 이미 늦었으니 오늘은 이미 돌아가시자옹ㅠㅅㅠ</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보는 아무 소득도 얻지 못하고 하루를 마무리했다…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>END</type>
+		<talk>끝</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>SUCCESS</type>
+		<talk>군부대? 알겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>SUCCESS</type>
+		<talk>기사님, 군부대 쪽으로 부탁드린다옹~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>(…잠시 후…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>후보님, 도착했다냥! …응?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>후, 후보님! 마침 뭔가 행사같은 게 열린 것 같다냥!!&gt;ㅅ&lt;</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>이런 분위기라면 엄청난 호응을 얻을 것 같다냥~! 
+여기로 오길 잘했다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 군부대에서 짧은 유세를 했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(후보의 카리스마로, 군인들의 열렬한 환호를 받았다!)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>(군인 지지자들이 대폭 늘어나며, 후보의 카리스마가 3 올랐다!)</talk>
+		<upState>CHAR</upState>
+		<upPoint>3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>END</type>
+		<talk>끝</talk>
+	</xmlAlice>
+</ArrayOfDialogTable>

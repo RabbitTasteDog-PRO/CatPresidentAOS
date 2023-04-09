@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님! 오늘도 수고 많으셨다옹~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>이제 오늘은 더 이상의 일정은 없다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>얼른 돌아가서 푹 쉬… 옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>후보님, 어딜 보고 계시냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>…앗, 지, 지갑이 떨어져 있다냥!!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>어디보자옹… 하나, 둘, 셋…. </talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>어, 엄청난 돈이 들어 있다옹…! 0ㅅ0</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>누군진 몰라도, 잃어버린 분은 엄청나게 난감해 하고 있겠지옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>다행히 지갑 안에 연락처가 들어 있기는 한데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>직접 연락을 해 보는 게 좋을까냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>NORMAL</type>
+		<talk>아니면 근처 파줄소에 지갑을 맡기는 방법도 있다옹.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>NORMAL</type>
+		<talk>하지만, 파출소가 이 근처에 있을지는 잘 모르겠다냥…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>NORMAL</type>
+		<talk>잘못하면 시간을 허비하게 될 수도 있는데, </talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>NORMAL</type>
+		<talk>후보님, 어떻게 하고 싶으시냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>CHECK</type>
+		<checkState>직접 연락한다</checkState>
+		<checkValue>파출소를 찾는다</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>응 응, 직접 연락을 하고 싶으시다는 거지옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>알겠다냥, 그럼 지금 한번 연락을 해 보겠다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>FAIL</type>
+		<talk>(…......)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>FAIL</type>
+		<talk>흐음, 연락이 안 되는데옹, 다시 한 번…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>FAIL</type>
+		<talk>(…......)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>FAIL</type>
+		<talk>(그렇게 연락을 몇 번이나 반복해도 주인은 전화를 받지 않았다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>FAIL</type>
+		<talk>(주인 없는 거액이 미심쩍었던 고양이 후보는 그 돈을 사용하지는 않았지만)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>FAIL</type>
+		<talk>(돈의 출처에 대해 너무나 신경을 쓴 나머지 밤새 잠을 이루지 못했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 체력이 -2만큼 떨어졌다…)</talk>
+		<upState>HP</upState>
+		<upPoint>-2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>END</type>
+		<talk>끝</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>응 응, 파출소를 찾고 싶으신 거구냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>알겠다옹, 한번 찾아보자옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>(30분여를 찾아 헤맨 끝에, 고양이 후보는 파출소를 찾아 주인 잃은 돈을 맡겼다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>SUCCESS</type>
+		<talk>(그리고 며칠 후, 경찰서에서 연락이 왔다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>SUCCESS</type>
+		<talk>(알고보니 그 돈은 위조지폐였고, 한 범죄 조직과 연관된 것이었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>SUCCESS</type>
+		<talk>(돈을 반납한 후보 덕분에 행방이 묘연했던 범죄 조직을 소탕할 수 있게 되어,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 경찰로부터 표창장을 수여했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>32</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 미담은 곧 신문에 실리게 되어, )</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>33</index>
+		<type>SUCCESS</type>
+		<talk>(단숨에 인지도가 5 상승했다!)</talk>
+		<upState>AWAR</upState>
+		<upPoint>5</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>34</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

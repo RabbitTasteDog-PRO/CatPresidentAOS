@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 오늘 무슨 날인지 알고 계시지냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>그렇다옹, 국내 유명 경제프로그램에서 인터뷰를 하기로 한 날이라냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>경제프로라니… 괜히 긴장되긴 하지만냐옹…8ㅅ8</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>그래도 후보님이라면 잘 해낼 수 있을 거라냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>어쨌든 이제 곧 인터뷰가 시작인데,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>그 전에 중요한 사항은 한번 더 확인하고 들어가는 게 좋을 것 같다옹.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>하지만 시간이 많지 않아서, 둘 중 하나를 골라야 한다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>일단… 후보님의 경제 공약을 좀더 어필할 수 있도록 한번 더 연습할 수도 있고,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>아니면 최근 우리나라에서 이슈가 되고 있는 경제 문제들에 대해 확인할 수도 있다옹.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>인터뷰까지 남은 시간은 5분… 시간이 별로 없다냥.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>NORMAL</type>
+		<talk>둘 중 어떤 주제를 중점적으로 체크하시겠냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>CHECK</type>
+		<checkState>내 공약 확인</checkState>
+		<checkValue>국내 이슈 확인</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>후보님의 공약을 한번 더 체크하시겠냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>좋다옹! 후보님의 공약에 대한 질문이 꼭 나왔으면 좋겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>(후보는 남은 시간 동안 본인의 공약을 체크했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>(잠시 후 인터뷰가 시작되었고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(기자는 최근 화제가 되고 있는 국내의 뉴스에 대한 질문을 던졌다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>FAIL</type>
+		<talk>(순간적으로 얼버무려 넘어가기는 했지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>FAIL</type>
+		<talk>(미처 준비하지 못한 질문에 당황하는 후보의 모습이 방송을 타면서)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>FAIL</type>
+		<talk>(후보의 카리스마가 3 떨어지고 말았다…)</talk>
+		<upState>CHAR</upState>
+		<upPoint>-3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>최근 국내의 이슈에 대해 한번 더 확인하시겠냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>좋다옹! 최신 이슈에 대한 질문이 꼭 나왔으면 좋겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>(후보는 남은 시간 동안 최신 국내 이슈에 대해 체크했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>(잠시 후 인터뷰가 시작되었고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>(기자는 최근 화제가 되고 있는 국내의 뉴스에 대한 질문을 던졌다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(인터뷰 직전에 준비한 내용이었던 만큼,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 그 문제에 대한 본인의 생각을 망설임없이 이야기할 수 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>SUCCESS</type>
+		<talk>(후보의 인터뷰영상은 전국에 방송되었고)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>SUCCESS</type>
+		<talk>(대중들은 고양이후보의 프로페셔널한 모습에 긍정적인 반응을 보냈다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>SUCCESS</type>
+		<talk>(적절한 대답 덕분에, 고양이 후보의 경제지식이 단숨에 8이나 상승했다!!)</talk>
+		<upState>ECO</upState>
+		<upPoint>8</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

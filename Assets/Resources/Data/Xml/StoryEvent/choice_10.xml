@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>바쁘다, 바빠옹!!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>오늘은 정말 스케줄이 산더미처럼 쌓여있다냥~0ㅅ0;;</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>어디보자… 세번째 일정까지 마치셨으니,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>이제 바로 다음 장소로 이동하셔야 하는데옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>다음 행사는 지역의 축제 행사장이라냥.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>그런데, 앞에서 너무 열심히 움직이셨는지…
+옷이 땀에 다 젖어버렸다옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>잠시 사무실에 들러 깔끔한 차림으로 갈아입고 가는 게 좋을까냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>으음… 하지만 사무실에 들렀다 출발하면</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>행사 시작시간에 살짝 늦을 것 같기도 하고…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>그치만, 차가 안 막힌다면 제시간에 도착할 것 같기도…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>NORMAL</type>
+		<talk>우, 우냐앙~ 모르겠다냥~!! 8ㅅ8</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>NORMAL</type>
+		<talk>어, 어떻게 하지옹? 총무냥은 정말정말 모르겠다냥!!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>CHECK</type>
+		<checkState>옷을 갈아입고 간다</checkState>
+		<checkValue>그대로 출발한다</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>그, 그렇다옹! 그래도 명색이 축제인데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>초대받은 입장에서 제대로 된 차림을 갖추지 않고 가는 것도
+초대해 주신 분들에 대한 예의가 아니라옹!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>서둘러 움직이면 늦지 않을 거라옹! 빨리빨리!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(고양이후보는 서둘러 사무실로 향했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>FAIL</type>
+		<talk>(그러나, 막상 축제에 걸맞는 옷을 고르려니 시간이 걸렸고…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>FAIL</type>
+		<talk>(결국 출발이 예상보다 늦어져, 행사 시간에 늦고 말았다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>FAIL</type>
+		<talk>(아무래도 지역 어르신들에게 평판이 조금 안좋아 진 것 같다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 인지도가 2 하락했다…)</talk>
+		<upState>AWAR</upState>
+		<upPoint>-2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>옷을 갈아입지 않고 그대로 출발이냐옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>그, 그렇다옹! 남의 잔치에 초대받았는데
+제시간에 도착하도록 하는 것은 초대받은 입장에서는 기본 예절이라냥!!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>그럼, 옷은 살짝 아쉽지만 이대로 얼른 움직이자냥!! 빨리빨리!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>(고양이후보는 서둘러 행사장으로 향했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(곧바로 출발한 덕에 늦지 않게 도착할 수 있었고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>(살짝 마음에 걸렸던 옷 역시,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>SUCCESS</type>
+		<talk>(약속을 지키기 위해 바쁘게 달려온 후보의 
+성실한 이미지를 부각시켜 긍정적인 여론이 만들어졌다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>SUCCESS</type>
+		<talk>(훤칠하고 깔끔하게 꾸미는것보다, 오히려 땀에 젖은 셔츠 한 벌로)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 매력이 4나 올라가게 되었다!)</talk>
+		<upState>CHARM</upState>
+		<upPoint>4</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

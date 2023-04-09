@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 오늘도 수고 많으셨다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>그나저나 후보님, 요즘도 개인 SNS관리는 잘 하고 계시냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>아무리 작은 일상이라도, SNS에 올림으로써 대중들과 소통을 할 수 있기 때문에</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>후보님같은 분들에게 SNS 활용은 정말정말 중요하다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>그럼, 말이 나온 김에 지금 뭐라도 올려 보는게 어떻냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>…아아, 뭘 올려야 할지 영 모르겠다구옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>깊게 고민할 필요 없다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>요즘 생각하고 있는 이슈가 있다면 그것에 대한 글도 괜찮을 테고…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>아니면 오늘 아침 후보님이 먹은 메뉴 사진만으로도 오케이다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>자자, 뭐라도 얼른 올려보시라냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>CHECK</type>
+		<checkState>최근 이슈에 대한 생각</checkState>
+		<checkValue>오늘 먹은 메뉴의 사진</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보는 최근 뉴스에서 접한 
+외국 정부의 정책에 대한 생각을 글로 써서 올렸다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>(하지만, 가벼운 마음으로 올린 것과는 달리)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>(아무래도 그 이슈는 인터넷 상에서 
+꽤나 논란이 되고 있는 주제인 모양이었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보가 쓴 글에 딱히 잘못된 부분은 없었지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>(민감한 문제인 만큼 조금 더 신중하게 접근했어야 한다는 비판의 목소리가 나오기도 했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 외교관련 지식이 4 하락했다…)</talk>
+		<upState>DIPLO</upState>
+		<upPoint>-4</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 오늘 먹은 메뉴의 사진을 SNS에 올렸다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>SUCCESS</type>
+		<talk>(처음에는 별 반응이 없는 듯 했지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>SUCCESS</type>
+		<talk>(며칠 후 한 유명 배우가 그것과 똑같은 메뉴를 
+건강식으로 즐겨 먹는다는 이야기를 방송에서 한 이후로)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 SNS팔로워 수는 갑작스럽게 수직상승했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>(그 후 유*브에도 '유명 셀럽들의 아침식사 메뉴'라는 이름으로)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 메뉴 레시피가 여러 차례 공유되기도 했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>(정말 우연하게 얻어진 결과였지만, 
+결국 그 한 장의 사진은 온라인상에서 엄청난 유행이 되었고)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>(하나의 사회적 트렌드를 주도한 덕분에, 고양이 후보의 매력이 4상승했다!)</talk>
+		<upState>CHARM</upState>
+		<upPoint>4</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

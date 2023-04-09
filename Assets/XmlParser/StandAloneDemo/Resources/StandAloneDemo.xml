@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SomeTag>
+  <ThisWillBeIgnored>
+    <ThankYou>For trying the demo!</ThankYou>
+  </ThisWillBeIgnored>
+  <Name>TestTestHoiHoi</Name>
+  <SomeMoreTags>
+    <MyObject>
+      <Test>123</Test>
+      <Name>Hello World</Name>
+    </MyObject>
+    <MyObject>
+      <Test>456</Test>
+      <Name>This is a demo</Name>
+    </MyObject>
+  </SomeMoreTags>
+  <They_dont_need_to_be_all_in_one_list>
+    <MyObject>
+      <Test>789</Test>
+      <Name>Have fun with it!</Name>
+    </MyObject>
+  </They_dont_need_to_be_all_in_one_list>
+</SomeTag>

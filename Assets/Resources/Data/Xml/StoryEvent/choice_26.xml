@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 오늘은 들러야 할 곳이 한 군데 더 있다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>이미 얼마 전부터 이야기했던 내용이지만…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>다름아닌 '가족의 날 행사'라냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>가족의 날 답게 아이들을 데리고 온 가족 단위의 참가자가 많을 거라냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>후보님은 잠시 무대에 올라가 얼굴도장만 찍고 오시면 되지만,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>그래도 많은 인파가 모이는 큰 행사인만큼</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>뭔가 우리도 만반의 준비를 하는 게 좋겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>아무래도 가장 확실한 방법은 의상인데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>후보님, 뭔가 이목을 끌만 한 게 없을까옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>CHECK</type>
+		<checkState>인형탈 의상</checkState>
+		<checkValue>올블랙 정장</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>FAIL</type>
+		<talk>오오, 역시 후보님이라냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>FAIL</type>
+		<talk>아이들이 많이 오는 행사인 만큼, 
+인형탈만큼 시선을 사로잡는 게 없겠지옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>그럼, 바로 의상을 준비해 오겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>(잠시 후, 행사장)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>…어라… 이게 아닌데냥…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보가 도착한 행사장 안에는,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(가족의 날에 걸맞는 화려하고 알록달록한 의상을 입은 스태프들이 곳곳에 서 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>FAIL</type>
+		<talk>(그래서일까, 애써 준비한 인형탈이었지만)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>FAIL</type>
+		<talk>(오히려 오늘만큼은 숲 속의 나무처럼 눈에 띄지 않는 의상이 되고 말았다…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>FAIL</type>
+		<talk>(어렵게 생각한 아이디어가 수포로 돌아가자,
+고양이 후보의 자신감이 하락했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 카리스마가 2 떨어졌다…)</talk>
+		<upState>CHAR</upState>
+		<upPoint>-2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>정, 정장이라고냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>하지만, 후보님... 가족의 날 행사에 올블랙 정장이 과연 어울릴까옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>조금 걱정이 되긴 하지만… 일단 알겠다옹.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>얼른 움직이자냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(잠시 후, 행사장)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>…후보님, 성공했다냥…!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보가 도착한 행사장 안에는,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>SUCCESS</type>
+		<talk>(가족의 날에 걸맞는 화려하고 알록달록한 의상을 입은 스태프들이 곳곳에 서 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>SUCCESS</type>
+		<talk>(그래서일까, 고양이 후보가 차려입은 깔끔한 올블랙 정장은)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>SUCCESS</type>
+		<talk>(평소라면 그다지 눈에 띄지 않을 수도 있는 의상이지만)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>32</index>
+		<type>SUCCESS</type>
+		<talk>(오늘만큼은 바다 한가운데의 소나무만큼 모두의 이목을 사로잡았다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>33</index>
+		<type>SUCCESS</type>
+		<talk>(확실한 어필 전략이 통한 덕분에,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>34</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 인지도가 2 상승했다!)</talk>
+		<upState>AWAR</upState>
+		<upPoint>2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>35</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

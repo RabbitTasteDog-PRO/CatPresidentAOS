@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 수고하셨다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>오늘은 후보님께 들려줄 아주 좋은 소식이 있다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>바로바로…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>오늘의 일정은 여기서 끝! 이라는 사실이다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>물론 선거 기간 동안은 바쁜 게 좋은 거지만…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>그래도 마지막까지 선거를 완주하려면 제때 쉬어주는 것도 정말로 중요하다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>그러니까 오늘만큼은, </talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>다른 생각 하지 말고 하고 싶은 걸 하면서 푹~ 쉬어주라냥! &gt;ㅅ&lt;</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>…근데 조금 궁금하긴 하다옹.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>후보님은 뭘 하면서 휴식시간을 보낼 예정이신가옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>CHECK</type>
+		<checkState>독서</checkState>
+		<checkValue>등산</checkValue>
+		<checkL>SUCCESS</checkL>
+		<checkR>FAIL</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>SUCCESS</type>
+		<talk>도, 독서라구옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>SUCCESS</type>
+		<talk>모처럼의 휴일인데, 머리를 쉬게 하는 것도 좋을 텐데옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>SUCCESS</type>
+		<talk>하지만 책을 읽으면서 스트레스가 풀린다면,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>SUCCESS</type>
+		<talk>독서도 좋은 휴식이 될 수 있겠네옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>SUCCESS</type>
+		<talk>그럼, 후보님! 좋은 하루 보내라냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 그날 하루,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>SUCCESS</type>
+		<talk>(복잡한 세계 정세를 깊이있게 다룬 신간 도서를 읽었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>SUCCESS</type>
+		<talk>(비록 어려운 내용 덕에 하루 종일 책과 씨름해야 했지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>SUCCESS</type>
+		<talk>(무언가 머리가 똑똑해진 기분이 든다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 외교지식이 4 상승했다!)</talk>
+		<upState>DIPLO</upState>
+		<upPoint>4</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>FAIL</type>
+		<talk>오, 등산이라니 좋다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>FAIL</type>
+		<talk>그러고 보면, 저 총무냥도 맑은 자연의 공기를 쐰 적이 언제인지 모르겠다옹~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>FAIL</type>
+		<talk>…아, 같이 가지 않겠냐구옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>FAIL</type>
+		<talk>아니다냥! 오늘은 후보님을 방해하지 않겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>FAIL</type>
+		<talk>절대 귀찮은 게 아니다냥!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>FAIL</type>
+		<talk>그럼 후보님! 좋은 하루 보내라냥!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보는 그날 하루,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>FAIL</type>
+		<talk>(집 근처의 산을 오르며 몸과 마음의 휴식을 가졌다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>FAIL</type>
+		<talk>(힘들기는 했지만, 간만에 흙을 밟으니)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>FAIL</type>
+		<talk>(몸에 새로운 힘이 가득 생겨나는 기분이 든다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>32</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 체력이 5 상승했다!)</talk>
+		<upState>HP</upState>
+		<upPoint>5</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>33</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

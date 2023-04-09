@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>아아, 오늘따라 동선에 인기척이 별로 없는 것 같다옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>다들 집에서 쉬고 있겠지냥? 아쉽다옹 ㅠㅅㅠ</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>…응?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>후, 후보님, 저기 보라냥! 엄청난 인파…!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>무슨 일일까냥? 원래 번화가인 곳이니까 사람이 많이 몰려 있는 걸까옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>안그래도 오늘 하루 소득이 별로 없었는데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>밑져야 본전, 한번 저기에서 마지막 유세를 해 보는 게 좋을까냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>흐음, 하지만 오늘 후보님 많이 피곤해 보이시는데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>오늘은 이 정도로 일정을 마무리하는 게 좋을지도냥…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>선택은 후보님에게 맡기겠다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>NORMAL</type>
+		<talk>어떻게 하고 싶으신가냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>CHECK</type>
+		<checkState>번화가로 간다</checkState>
+		<checkValue>일정을 종료한다</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>정말 가시는 거냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>역시, 후보님의 열정은 대단하시다냥~! &gt;ㅅ&lt;</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>FAIL</type>
+		<talk>좋다옹! 오늘의 마지막 일정은 저기다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>FAIL</type>
+		<talk>(기세 좋게 번화가로 돌진한 고양이 후보,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>FAIL</type>
+		<talk>(하지만 곧 고양이 후보는 인파의 정체를 알게 되었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>FAIL</type>
+		<talk>(그곳에서는 인기 아이돌의 팬싸인회가 한창이었고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>FAIL</type>
+		<talk>(아이돌을 보기 위해 모인 대중들이 고양이 후보의 등장에 관심을 줄 리 없었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>FAIL</type>
+		<talk>(결국, 후보는 한 마디도 제대로 하지 못하고 부랴부랴 그곳을 떠나야만 했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>FAIL</type>
+		<talk>(예상치 못한 실패에, 후보의 화술이 3 하락했다…)</talk>
+		<upState>TALK</upState>
+		<upPoint>-3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>END</type>
+		<talk>끝</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>역시, 컨디션부터 챙기는게 좋겠지냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>그렇게 하는 게 좋겠다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>후보님, 너무 아쉬워 말라냥~ 다음 기회가 또 있을 거라옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>SUCCESS</type>
+		<talk>그럼, 오늘은 여기에서 마무리하도록 하자냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>SUCCESS</type>
+		<talk>(후보는 일찍 집으로 돌아와 하루를 마무리했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>SUCCESS</type>
+		<talk>(비록 아쉬움은 있었지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>SUCCESS</type>
+		<talk>(제때 잘 쉬어준 덕분에 컨디션 회복에는 확실히 도움이 된 것 같다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>32</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 체력이 4 올랐다!)</talk>
+		<upState>HP</upState>
+		<upPoint>4</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>34</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

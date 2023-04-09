@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Hello>
+  <ThisWillBeIgnored>
+    <ThankYou>For trying the demo!</ThankYou>
+  </ThisWillBeIgnored>
+  <SomeMoreTags>
+    <MyComponent>
+      <JustSomething>111</JustSomething>
+      <MyName>Hello World</MyName>
+    </MyComponent>
+    <MyComponent>
+      <JustSomething>222</JustSomething>
+      <MyName>This is a demo</MyName>
+    </MyComponent>
+  </SomeMoreTags>
+  <They_dont_need_to_be_all_in_one_list>
+    <MyComponent>
+      <JustSomething>333</JustSomething>
+      <MyName>Have fun with it!</MyName>
+    </MyComponent>
+  </They_dont_need_to_be_all_in_one_list>
+</Hello>

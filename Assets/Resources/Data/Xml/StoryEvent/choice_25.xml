@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 여기다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>오늘의 두번째 일정은 바로…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>대학교 강연이다냥! 0ㅅ0</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>강연이라고 했지만 별 건 없고,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>후보님의 이야기 후 학생들의 질문에 대답하는 시간을 갖는,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>그런 자리라고 한다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>그러니 너무 떨지 말고 다녀오시라냥! 파이팅!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>(잠시 후, 고양이 후보의 짧은 강연이 끝나고 난 뒤)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>(학생들과의 질의응답이 몇 차례 오갔다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>(그 중 한 학생이 손을 들고, 고양이 후보가 본 가장 감명깊은 영화에 대해 물었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>NORMAL</type>
+		<talk>(가장 감명깊은 영화라…?)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>CHECK</type>
+		<checkState>블록버스터 액션영화</checkState>
+		<checkValue>역사를 다룬 독립영화</checkValue>
+		<checkL>SUCCESS</checkL>
+		<checkR>FAIL</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 잠시 고민하다가, 얼마 전 본 액션영화를 소개했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>SUCCESS</type>
+		<talk>(진지하고 깊은 주제의 영화는 아니었지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>SUCCESS</type>
+		<talk>(보는 동안 모든 현실의 고민을 잊고 즐겼다는 점에서 높이 평가한다고 대답했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>SUCCESS</type>
+		<talk>(질문한 학생은 고개를 끄덕이며 자리에 앉았고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 의외의 대답에 객석에서는 잠깐 웃음이 터져나왔다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>SUCCESS</type>
+		<talk>(덕분에 진지했던 강연의 분위기가 조금 누그러지는 기분이 들었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>SUCCESS</type>
+		<talk>(영화 추천으로 학생들과의 공감대를 찾은 덕에,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 문화지식이 2 상승했다!</talk>
+		<upState>CUR</upState>
+		<upPoint>2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보는 잠시 고민하다가, 몇 년 전 본 독립영화를 소개했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>FAIL</type>
+		<talk>(대중적으로 흥행을 하지는 못했지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>FAIL</type>
+		<talk>(역사에 대한 감독의 고민이 고스란히 드러나 있는 명작이라고 평가했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>FAIL</type>
+		<talk>(질문한 학생은 고개를 끄덕이며 자리에 앉았고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>FAIL</type>
+		<talk>(강연장에는 학생들의 박수가 터져나왔다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>FAIL</type>
+		<talk>(조금은 딱딱한 분위기였을 수 있지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>FAIL</type>
+		<talk>(학생들의 반응이 대체로 만족스러운 것 같아서)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 마음도 홀가분했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>FAIL</type>
+		<talk>(학생들이 듣고 싶어했던 대답을 적절하게 해 준 덕분에)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 카리스마가 2 올랐다!)</talk>
+		<upState>CHAR</upState>
+		<upPoint>2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

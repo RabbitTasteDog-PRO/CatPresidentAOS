@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>와, 벌써 날이 어두워졌다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>후보님, 이제 오늘의 마지막 일정이다옹~ 화이팅하자냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>(그때, 길거리 한복판에서 큰 소리가 들렸다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>…오잉? 뭐냐옹? 0ㅅ0</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>으음… 아무래도, 저쪽에서 싸움이 벌어진 것 같은데냥…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>(싸우는 소리는 시간이 지날수록 커지기 시작했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>후보님, 어쩌지옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>아직 길거리 유세일정이 남았는데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>여기에서 이런 싸움이 벌어지고 있을 줄이야…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>어떻게 하는 게 좋을까옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>CHECK</type>
+		<checkState>직접 싸움을 말린다.</checkState>
+		<checkValue>주의를 돌린다.</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>FAIL</type>
+		<talk>후, 후보님! 직접 말리러 가신다구옹? 위험하다냥!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보는 싸우고 있는 두 동물 사이에 끼어들었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>(갑작스러운 고양이 후보의 등장에 두 동물은 잠시 당황했지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>(도리어 그것이 두 사람의 흥분을 더욱 북돋은 꼴이 되고 말았다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>(결국 경찰이 출동하고 나서야 길거리의 소동은 끝이 났다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>우웅... 후보님, 오늘은 아무래도 여기까지만 해야 할 것 같다옹.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>FAIL</type>
+		<talk>후보님은 최선을 다한 거니, 너무 속상해하지 말라냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>FAIL</type>
+		<talk>(총무냥의 위로에도 불구하고, 싸움을 제대로 중재하지 못한 탓에)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>FAIL</type>
+		<talk>(고양이후보의 카리스마가 3 하락했다…)</talk>
+		<upState>CHAR</upState>
+		<upPoint>-3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>주의를 돌린다구옹…? 어떻게…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>(총무냥의 어리둥절한 표정 뒤로, 고양이 후보는 유세용 마이크를 꺼냈다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>(갑자기 울려퍼지는 고양이 후보의 목소리에, 
+거리에 있던 모든 동물들의 시선이 한곳으로 향했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>(후보는 현란한 말솜씨로 대중들을 사로잡았고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>(유세가 끝나갈 무렵에는 어느새 싸우고 있던 두 동물도)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(멍하니 고양이 후보의 이야기를 경청하고 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>후…후보님! 정말 대단하시다냥! 후보님은 화술의 천재라옹~!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 화술이 3만큼 증가했다!)</talk>
+		<upState>TALK</upState>
+		<upPoint>3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

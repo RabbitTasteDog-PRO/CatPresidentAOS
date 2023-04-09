@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 준비는 잘 되어가고 계신가옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>이제 곧 외신 기자와의 인터뷰가 시작된다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>외국에서도 후보님에 대해 관심이 많은 것 같아서</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>이 총무냥, 너무너무 뿌듯하다냥! &gt;ㅅ&lt;</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>앗, 이제 인터뷰가 시작하는 것 같다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>그럼 후보님, 화이팅이다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>(잠시 후, 외신 기자와의 인터뷰가 시작되었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>(후보에 대한 이야기가 몇 차례 오간 후, 기자가 마지막 질문을 던졌다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>(마지막으로 하고 싶은 이야기에 관한 질문이었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<type>NORMAL</type>
+		<talk>(마지막으로 하고 싶은 이야기라…?)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>CHECK</type>
+		<checkState>세계정세에 관한 이야기</checkState>
+		<checkValue>경제에 관한 이야기</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보는 외신 기자의 나라를 포함한
+다양한 세계 각국의 정치 상황에 대해 이야기했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>FAIL</type>
+		<talk>(그리고 글로벌 사회에 발맞추기 위한)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>(새로운 리더의 자격에 대한 견해를 밝혔다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 확고한 입장은 여러 네티즌들에게 깊은 인상을 주었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>(특히 고양이 후보의 외교적 역할에 대한 기대감이 커지는 것을 느낄 수 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>(후보의 외교지식이 3 상승했다!)</talk>
+		<upState>DIPLO</upState>
+		<upPoint>3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 현재 국내의 경제 상황에 대해 이야기했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>(그리고 모두가 행복하게 살 수 있는 나라에 대한)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>(자신의 견해를 이야기했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 확고한 입장은 여러 네티즌들에게 깊은 인상을 주었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(특히 고양이 후보의 경제관련 공약에 관심을 가지는 분위기를 느낄 수 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>(후보의 경제지식이 3 상승했다!)</talk>
+		<upState>ECO</upState>
+		<upPoint>3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>35</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

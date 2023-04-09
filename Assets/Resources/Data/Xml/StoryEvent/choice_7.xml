@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>(모든 일정이 끝난 후, 식당)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>휴, 이제야 좀 살겠다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>후보님, 오늘도 고생 많으셨다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>(그때, 가게 주인이 서비스라며 음식 한 접시를 내민다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>에에, 사장님, 이러시지 않으셔도 된다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>아이 참, 이걸 어쩌지옹…? ㅇㅅㅇ;;</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>기왕 주신건데 먹지 않자니 죄송하고…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>그렇다고 먹기에는… 후보님, 오늘 상점가를 돌아다니면서
+이미 여기저기에서 한 입씩 드시지 않으셨냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>너무 무리하시는 게 아닐지…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>후보님, 어떻게 하실까옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>CHECK</type>
+		<checkState>먹는다</checkState>
+		<checkValue>먹지 않는다</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>FAIL</type>
+		<talk>후보님, 정말 괜찮으시겠냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>으앗, 그걸 한 입에…!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>(후보는 모든 음식을 싹싹 비우고 돌아왔다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>(그러나 역시 너무 과식한 탓이었을까…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>(급체 증상으로, 후보는 다음날 하루 종일 컨디션 난조로 고생해야 했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(후보의 체력이 2 떨어졌다…)</talk>
+		<upState>HP</upState>
+		<upPoint>-2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>SUCCESS</type>
+		<talk>…역시 무리겠지옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>SUCCESS</type>
+		<talk>하지만 이미 음식이 나와 버려서, 이걸 어쩐다…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>SUCCESS</type>
+		<talk>(후보는 조용히 음식점 주인에게 다가가,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>(주인의 호의에 너무나 감사하며, 선거 사무소의 식구들과 나누어 먹고 싶으니)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>(방금 받은 음식을 포장해가도 되겠느냐고 물었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>(주인은 흔쾌히 허락했고, 후보는 남은 음식을 포장해서 음식점을 나올 수 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>(후보의 센스있는 대처에, 매력이 3만큼 상승했다!)</talk>
+		<upState>CHARM</upState>
+		<upPoint>3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

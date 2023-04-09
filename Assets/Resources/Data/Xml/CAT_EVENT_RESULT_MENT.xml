@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlStandTalkBox>
+		<index>0</index>
+		<type>FOURTH</type>
+		<standTalk>와아!!! 대단한 열기였다옹!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<index>0</index>
+		<type>FOURTH</type>
+		<standTalk>모두의 응원에 힘입어, 후보님의 발언도 청산유수!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>FOURTH</type>
+		<standTalk>이 정도면 오늘의 토론회는 후보님의 압승이라옹!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>FOURTH</type>
+		<standTalk>모두들 수고했다냥~!!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>FOURTH</type>
+		<standTalk>(열띤 응원에 힘입어, 후보의 카리스마와 체력이 5씩 올랐다!)</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>END</type>
+		<standTalk>끄읕</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>THIRD</type>
+		<standTalk>다들 수고하셨다옹!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>THIRD</type>
+		<standTalk>모두가 힘내 준 덕분에, 후보님에게도 응원이 닿은 것 같다냥!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>THIRD</type>
+		<standTalk>떨지 않고 잘 말해 준 후보님, 정말 멋졌다냥!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>THIRD</type>
+		<standTalk>그럼 모두들, 수고하셨다냥!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>THIRD</type>
+		<standTalk>(응원에 힘입어, 후보의 체력이 3 올랐다!)</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>END</type>
+		<standTalk>끄읕</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>SECOND</type>
+		<standTalk>시간이 모두 끝났다냥!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>SECOND</type>
+		<standTalk>모두의 응원이 전해졌을까냥…?</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>SECOND</type>
+		<standTalk>조금 긴장한 것 같긴 하지만, 그래도 후보님 역시 잘 해주셨다옹!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>SECOND</type>
+		<standTalk>그럼 모두들, 수고하셨다냥!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>SECOND</type>
+		<standTalk>(응원에 힘입어, 후보의 인품이 2 올랐다!)</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>END</type>
+		<standTalk>끄읕</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>FIRST</type>
+		<standTalk>자 자, 토론회가 마무리되었다냥!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>FIRST</type>
+		<standTalk>다들 많이 힘들었지냥?</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>FIRST</type>
+		<standTalk>아무래도, 우리의 박수 소리가 후보님에게 잘 닿지 않은 것 같다옹…</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>FIRST</type>
+		<standTalk>그래도 꿋꿋하게 발언을 마친 우리 후보님, 대단하다냥!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>FIRST</type>
+		<standTalk>(토론회가 무사히 끝났다.)</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>END</type>
+		<standTalk>끄읕</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>ZERO</type>
+		<standTalk>자, 그만~! </standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>ZERO</type>
+		<standTalk>…다들, 어제 밤이라도 새고 온 거냐옹? 0ㅅ0;;;</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>ZERO</type>
+		<standTalk>후보님에게 보내는 응원의 박수가…ㅠㅅㅠ</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>ZERO</type>
+		<standTalk>다른 편 후보에게 보내는 박수 소리에 묻혀 버릴 정도였다옹…</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>ZERO</type>
+		<standTalk>후보님, 기가 살기는 커녕, 의기소침해진 것 같다냥…</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>ZERO</type>
+		<standTalk>다들, 다음번엔 조금 더 힘내주시라옹…!</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>ZERO</type>
+		<standTalk>(너무나 조용한 분위기에 후보는 자신감을 잃었다.
+체력이 5 떨어지고 말았다…)</standTalk>
+	</xmlStandTalkBox>
+	<xmlStandTalkBox>
+		<type>END</type>
+		<standTalk>끄읕</standTalk>
+	</xmlStandTalkBox>
+</ArrayOfDialogTable>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlData>
+		<index>0</index>
+		<key>eUniversity</key>
+		<ment_1>청년이 미래다냥! </ment_1>
+		<ment_2>이나라의 미래를 위해 한 몸 바치겠다냥!</ment_2>
+	</xmlData>
+	<xmlData>
+		<index>1</index>
+		<key>ePark</key>
+		<ment_1>모든 분들이 살기 좋은 세상, </ment_1>
+		<ment_2>제가 만들겠다옹!</ment_2>
+	</xmlData>
+	<xmlData>
+		<index>2</index>
+		<key>eMetro</key>
+		<ment_1>오늘도 출근하시는 모든 분들, </ment_1>
+		<ment_2>화이팅이라옹!</ment_2>
+	</xmlData>
+	<xmlData>
+		<index>3</index>
+		<key>eOfficeCenter</key>
+		<ment_1>경제 살릴 대통냥, </ment_1>
+		<ment_2>누굽니까냥~~~!!</ment_2>
+	</xmlData>
+	<xmlData>
+		<index>4</index>
+		<key>eTraditionalMarkets</key>
+		<ment_1>역시, ♡</ment_1>
+		<ment_2>전통시장 떡볶이가 제일 맛있다냥~ &#62;ㅅ&#60;</ment_2>
+	</xmlData>
+	<xmlData>
+		<index>5</index>
+		<key>eMilitary</key>
+		<ment_1>충성!</ment_1>
+		<ment_2>언제나 나라를 위해 힘써 주셔서 감사하다냥!</ment_2>
+	</xmlData>
+	<xmlData>
+		<index>6</index>
+		<key>eMarathon</key>
+		<ment_1>준비하시고, 출바... 앗, 한발 늦었다냥! </ment_1>
+		<ment_2>그래도 다들 화이팅이다냥!</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eGameCenter</key>
+		<ment_1>이렇게 대단한 작품이 많다니...</ment_1>
+		<ment_2>우리나라 게임계의 미래가 밝다옹...!</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eBriquette</key>
+		<ment_1>털이 온통 새까매졌지만, </ment_1>
+		<ment_2>마음만은 훈훈하다옹~</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eSchool</key>
+		<ment_1>모든 학생들의 평등한 교육을 위해,</ment_1>
+		<ment_2>저도 열심히 노력하겠다냥~!</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eAnimalHospital</key>
+		<ment_1>부모에게 버림받은 아기 동물들이 너무나 많다냥...</ment_1>
+		<ment_2>저 역시 무거운 책임감을 느낀다냥...!</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eBloodDonation</key>
+		<ment_1>바늘은 무섭지만... &#62;ㅆ&#60;</ment_1>
+		<ment_2>여러분, 모두 헌혈에 동참해 주시라옹~!</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eForeignPress</key>
+		<ment_1>흠흠, 지금 옆나라에선 이런 일이...</ment_1>
+		<ment_2>음냐... 앗, 안 졸았다냥!</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eDomesticNews</key>
+		<ment_1>어디보자, 오늘의 뉴스는...</ment_1>
+		<ment_2>...음냐, 아, 안 졸았다냥!</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eEcoNews</key>
+		<ment_1>흠, 그러니까 금리 변동이... </ment_1>
+		<ment_2>음냐... 앗, 안 졸았다옹!</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eFashionMagazine</key>
+		<ment_1>그러니까, 이번 상반기의 머스트 해브 아이템은...</ment_1>
+		<ment_2>...음냐... 앗, 안 졸았다냥!</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eFacebook</key>
+		<ment_1>흠...</ment_1>
+		<ment_2>내 글에 좋아요를 누르면 안 되는 거냐옹?</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eTwitter</key>
+		<ment_1>그러니까... 이렇게...</ment_1>
+		<ment_2>앗, 글자 수 초과해버렸다냥 0ㅅ0;;</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eKakoStory</key>
+		<ment_1>나도 이렇게</ment_1>
+		<ment_2>재미있는 글을 쓰고 싶다냥...</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eInstar</key>
+		<ment_1>끄응... 뭔가 올리고 싶은데</ment_1>
+		<ment_2>예쁜 사진 찍기가 너무 어렵다냥...</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eHairstyle</key>
+		<ment_1>아아, 예쁜 스타일이 가득이다냥!</ment_1>
+		<ment_2>윤기나는 털로 부탁한다옹~</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eYoga</key>
+		<ment_1>웅냐~앙~</ment_1>
+		<ment_2>이정도 스트레칭은 식은 죽 먹기다냥~</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eClothingshopping</key>
+		<ment_1>이것도 예쁘고, 이것도, 저것도...!</ment_1>
+		<ment_2>우냐앙, 그냥 다 사버리면 안될까냥? 0ㅅ0</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eHealth</key>
+		<ment_1>여덟... 아홉... 열...!!!</ment_1>
+		<ment_2>휴, 힘들지만 보람차다옹~</ment_2>
+	</xmlData>
+	<xmlData>
+		<key>eRest</key>
+		<ment_1>뒹굴~뒹굴~ </ment_1>
+		<ment_2>이곳이 천국이라옹~</ment_2>
+	</xmlData>
+</ArrayOfDialogTable>

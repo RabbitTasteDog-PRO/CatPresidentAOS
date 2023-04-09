@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>(다음 유세 장소로 향하는 길…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>후보님, 어쩌냐옹…8ㅅ8</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>그동안 너무 무리한 거라옹…!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>이렇게 목소리가 다 쉬어 버리다니…ㅠㅅㅠ</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>그래도 후보님이 강력히 주장하시니 일단 유세장소에 도착하긴 했지만...</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>하지만 정말 괜찮으시겠냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>후보님이 정말 원하신다면야 어쩔 수 없지만,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>굳이 무리해서 목소리를 내실 필요는 없다는 점을 기억하시라옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>그럼, 오늘 유세는 어떻게 진행하시겠냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>CHECK</type>
+		<checkState>연설을 한다</checkState>
+		<checkValue>춤을 춘다</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>FAIL</type>
+		<talk>역시 그대로 강행하시겠냐옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>FAIL</type>
+		<talk>후보님의 결정이 그렇다면 어쩔 수 없지옹8ㅅ8</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보는 마이크를 잡고 갈라진 목소리로 힘겹게 유세를 마쳤다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 부상 투혼에 총무냥은 꽤나 감동받은 듯 보였지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>(안타깝게도 그것은 총무냥에게만 해당되는 이야기였다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 갈라진 목소리가 거리를 채우자)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(대부분의 인파는 듣기 힘든 듯 자리를 떠나 버렸고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>FAIL</type>
+		<talk>(끝까지 현장에 남아 있던 동물들은 몇몇 극소수의 지지자들 뿐이었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>FAIL</type>
+		<talk>(대중을 모으지 못한 선거 유세의 여파로,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 카리스마가 2만큼 하락했다.)</talk>
+		<upState>CHAR</upState>
+		<upPoint>-2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>우냐아앙…? 그게 무슨 말씀이신지옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>그러니까, 선거 유세를 말 대신 춤으로 하시겠다구용…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>으음… 어떻게 보면 사람들의 관심을 끌 수는 있을 것 같기는 한데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 마이크를 잡는 대신 홍보용 영상을 틀어놓고 신나게 춤을 췄다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>(처음에는 고양이 후보를 알아보지 못한 시민들도,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(점차 그것이 고양이 후보라는 것을 알고는 웅성대기 시작했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>(결국 홍보용 영상이 끝날 때쯤에는 엄청난 인파가 유세차량 앞에 모여 있었고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 말 한마디 하지 않고도 대중의 관심을 한 몸에 받을 수 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>SUCCESS</type>
+		<talk>(그에 더해 고양이 후보의 갈고닦은 춤솜씨 발휘로,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>SUCCESS</type>
+		<talk>(후보의 매력이 3 상승했다!)</talk>
+		<upState>CHARM</upState>
+		<upPoint>3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

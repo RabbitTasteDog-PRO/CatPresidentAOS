@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 괜찮으시냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>오늘따라 왠지 힘들어 보이신다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>앗, 아무렇지 않다고냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>이상하다옹, 제가 보기에는 꽤나 피곤해 보이시는데옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>아참! 0ㅅ0 그러고 보니…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>(총무냥이 핸드폰을 보여주었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>제가 요즘, 매일 아침마다 우리 후보님의 타로 운세를 확인하고 있는데옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>하필이면 오늘, 운세가 그리 좋지 않게 나온 날이라냥. ㅠㅅㅠ</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>물론 이런 걸 다 믿는 건 아니지만,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>그래도 가능하면 최대한 좋은 운이 따르는 쪽으로 가는 게 좋지 않겠냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>NORMAL</type>
+		<talk>에… 그러니까 오늘 후보님의 행운의 아이템은, 토끼귀 헤어밴드라옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>NORMAL</type>
+		<talk>마침 저 총무냥이 준비해 둔게 딱 있다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>NORMAL</type>
+		<talk>…아니, 물론 엄청나게 튀는 아이템이라는 건 알고 있다냥...</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>NORMAL</type>
+		<talk>하지만, 어차피 뒤의 일정은 길거리 유세니까… 
+괜찮을 것 같기도 한데 말이지옹! 0ㅅ0</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>NORMAL</type>
+		<talk>후보님, 어떠냐옹? 눈에는 조금 튀겠지만,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>NORMAL</type>
+		<talk>행운의 아이템을 착용하시겠냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>CHECK</type>
+		<checkState>착용한다</checkState>
+		<checkValue>거절한다</checkValue>
+		<checkL>SUCCESS</checkL>
+		<checkR>FAIL</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>SUCCESS</type>
+		<talk>아앗, 정말이냐옹? 잘 생각하셨다옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>SUCCESS</type>
+		<talk>자자, 이걸 머리에 쓰시면 된다냥~ 아이~귀엽다냥! </talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>SUCCESS</type>
+		<talk>(잠시 후, 고양이 후보는 토끼귀 헤어밴드를 착용한 채 유세 현장에 나갔다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>SUCCESS</type>
+		<talk>(평소와는 전혀 다른 후보의 모습에 대중들은 깜짝 놀랐고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보는 '행운의 아이템'에 대해 설명했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>(그 날 유세가 끝난 뒤, SNS에는 토끼 헤어밴드를 한 고양이 후보의 사진이)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>(젊은 세대들 사이에서 폭발적인 반응을 얻었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>(딱딱해 보이는 대통냥 후보 역시 '행운의 아이템'을 챙긴다는 사실이)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>(많은 대중들에게 친근한 이미지로 다가온 것 같다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 문화지식이 3증가했다!)</talk>
+		<upState>CUR</upState>
+		<upPoint>3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>FAIL</type>
+		<talk>우웅… 역시 이런 건 너무 바보같아 보이겠지옹…?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>FAIL</type>
+		<talk>쓸데없는 소리를 해서 죄송하다냥 8ㅅ8…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>FAIL</type>
+		<talk>자자, 그럼 얼른 다음 유세 장소로 이동하시자냥…!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보는 왠지 시무룩해진 총무냥과 함께 다음 일정으로 이동했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>32</index>
+		<type>FAIL</type>
+		<talk>(평소와 다를 것 없는 일정이었지만, 아까 총무냥에게 그런 말을 들어서 그런지…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>33</index>
+		<type>FAIL</type>
+		<talk>(괜히 평소보다 피곤한 것 같은 느낌을 지울 수가 없었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>34</index>
+		<type>FAIL</type>
+		<talk>(결국, 일정이 마무리될 무렵 고양이 후보는 녹초가 되어 버렸다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>35</index>
+		<type>FAIL</type>
+		<talk>(제대로 일정을 소화해내지 못한 탓에, 고양이 후보의 화술이 2 하락했다…)</talk>
+		<upState>TALK</upState>
+		<upPoint>-2</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>36</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

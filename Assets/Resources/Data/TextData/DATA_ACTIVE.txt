@@ -1,0 +1,9 @@
+﻿0	CAMPAIGN	act_btn_0	eUniversity	ePark	eMetro	eOfficeCenter
+1	VISITATION	act_btn_1	eTraditionalMarkets	eMilitary	eMarathon	eGameCenter
+2	SERVICE	act_btn_2	eBriquette	eSchool	eAnimalHospital	eBloodDonation
+3	ANALYSIS	act_btn_3	eForeignPress	eDomesticNews	eEcoNews	eFashionMagazine
+4	STATE	act_btn_7	NONE	NONE	NONE	NONE
+5	SNS	act_btn_4	eFacebook	eTwitter	eKakoStory	eInstar
+6	IMAGE	act_btn_5	eHairstyle	eYoga	eClothingshopping	eHealth
+7	REST	act_btn_6	NONE	NONE	NONE	NONE
+8	EVENT	NONE	NONE	NONE	NONE	NONE

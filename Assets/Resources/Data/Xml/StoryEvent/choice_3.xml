@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>(선거사무소로 돌아가는 길)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>…아, 후보님… 오늘도 수고 많으셨다냥…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>…에, 저, 저 말인가냥? 아니라옹! 아~무 문제 없다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>……역시, 후보님은 속일 수가 없다냥…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>다른 게 아니라… 오늘 사무소의 직원냥에게서 제보를 하나 받았는데,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>누군가 후보님에 대한 루머를 여기저기 퍼뜨리고 있는 것 같다옹…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>아직은 아는 동물이 얼마 없는 정도이지만,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>이 문제가 더 퍼진다면… 분명 이미지에 큰 타격을 입을 거라옹~! ㅠㅅㅠ</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>아무래도 뭔가 대응을 해야 할 것 같은데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>직접 유세 현장에서 해명을 하는 방법이 있고,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>NORMAL</type>
+		<talk>SNS 계정을 이용해 게시글을 올리는 방법이 있다냥.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>NORMAL</type>
+		<talk>어떻게 하면 좋을까냥?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>CHECK</type>
+		<checkState>직접 해명한다</checkState>
+		<checkValue>SNS를 이용한다</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>(다음 날…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 루머와 관련한 소식이 인터넷 기사 1면을 장식했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보는 유세현장에서 자신의 진실을 이야기했지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(이미 소문이 퍼진 이후에 후보가 하는 말은 
+변명으로 들릴 뿐이었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>FAIL</type>
+		<talk>(결국 후보의 지인들이 나서서 이런저런 증언을 
+해 준 덕분에 사건은 해결되었지만,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>FAIL</type>
+		<talk>(아무래도 당분간 주변에서 수근대는 소리를 듣게 될 것 같다…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>FAIL</type>
+		<talk>(지칠대로 지친 고양이 후보의 체력이 5 떨어지고 말았다.)</talk>
+		<upState>HP</upState>
+		<upPoint>-5</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>END</type>
+		<talk>끝</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>흐음, 알겠다냥! 그럼 그렇게 처리하겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>(다음 날…)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 루머와 관련한 소식이 인터넷 기사 1면을 장식했다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>(그러나 후보는 그 전날 이미 SNS 계정에 
+입장문을 올려 놓은 상태였고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>(발빠른 대응 덕에 동물들은 
+누구도 거짓 루머를 믿지 않았다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>(덕분에 고양이 후보는 자신의 진실을 
+대중들에게 어필할 수 있었고,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>(심지어 SNS를 이용한 센스 있는 대응으로 
+폭넓은 세대와 소통했다는 평가를 받았다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 문화지식이 5 올라갔다!)</talk>
+		<upState>CUR</upState>
+		<upPoint>5</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>END</type>
+		<talk>끝</talk>
+	</xmlAlice>
+</ArrayOfDialogTable>

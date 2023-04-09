@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님, 잠시, 잠시만냐옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>(다음 일정을 위해 바쁘게 걷고 있던 고양이 후보를 총무냥이 다급하게 불러세웠다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>헥, 헥, 다름이 아니라…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>후보님, 오늘 생일이지 않냐옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>아무리 바빠도 그렇지, 본인 생일을 잊어버리다니…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>이 총무냥, 괜히 마음이 찡~하다옹 8ㅅ8</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>어쨌든, 이 총무냥과 선거 사무실의 식구들이 마음을 모아,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>후보님께 작지만 뭐라도 선물을 드리고 싶은데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>혹시 필요하신 게 있을까옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>CHECK</type>
+		<checkState>새 신발</checkState>
+		<checkValue>건강식품</checkValue>
+		<checkL>FAIL</checkL>
+		<checkR>SUCCESS</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>FAIL</type>
+		<talk>새 신발이 필요하신 거구나옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>FAIL</type>
+		<talk>하긴, 그러고보면 요즘 쉴 새 없이 돌아다니신 덕에…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>FAIL</type>
+		<talk>후보님의 신발, 이미 뒷굽이 다 닳아버리지 않았냐옹 8ㅅ8</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>FAIL</type>
+		<talk>알겠다냥! 비록 값비싼 명품 신발을 해 드릴 수는 없지만,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>FAIL</type>
+		<talk>후보님이 일정을 더 힘내서 수행하실 수 있도록,
+최대한 편안한 신발을 찾아보겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>FAIL</type>
+		<talk>(다음 날, 총무냥이 선물을 내밀었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>FAIL</type>
+		<talk>(편안한 새 신발을 신자, 저절로 몸이 가벼워지는 기분이었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>FAIL</type>
+		<talk>(후보의 체력이 8 증가했다!)</talk>
+		<upState>HP</upState>
+		<upPoint>8</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>SUCCESS</type>
+		<talk>건강식품 말이냐옹? ?ㅅ?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>SUCCESS</type>
+		<talk>하긴, 그러고보면 요즘 쉴 새 없이 돌아다니신 덕에…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>SUCCESS</type>
+		<talk>후보님의 체력도 많이 약해지신 것 같아 걱정이 많았다옹.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>SUCCESS</type>
+		<talk>알겠다냥! 비록 값비싼 물건을 해 드릴 수는 없지만,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>SUCCESS</type>
+		<talk>후보님이 기력을 회복할 수 있게, 
+이 총무냥 최선을 다해 선물을 준비해 보겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>SUCCESS</type>
+		<talk>(다음 날, 총무냥이 선물을 내밀었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>SUCCESS</type>
+		<talk>(선물 박스 안에는 곱게 포장된 쮸르 한 묶음이 들어 있었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>SUCCESS</type>
+		<talk>헤헤… 우리 냥이들이 먹으면 뭐든 할 수 있다는 바로 그 간식이라냥.</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>SUCCESS</type>
+		<talk>후보님, 이거 드시고 힘내서 남은 기간도 화이팅하시라냥!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>SUCCESS</type>
+		<talk>(쮸르 5개를 선물로 받았다!)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>32</index>
+		<type>SUCCESS</type>
+		<talk>(쮸르는 상점에서 여러 용도로 사용이 가능합니다.)</talk>
+		<upState>COIN</upState>
+		<upPoint>5</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>35</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>

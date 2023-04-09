@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlAlice>
+		<index>0</index>
+		<type>NORMAL</type>
+		<talk>후보님~오셨냐옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>1</index>
+		<type>NORMAL</type>
+		<talk>오늘은 아주 경사스러운 날이다냥~&gt;ㅅ&lt;</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>2</index>
+		<type>NORMAL</type>
+		<talk>우냥? 까먹으신 건 아니겠지옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>3</index>
+		<type>NORMAL</type>
+		<talk>해외 유명 신문사에서 후보님에 대한 인터뷰를 하러 오는 날 아니냐옹!!!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>4</index>
+		<type>NORMAL</type>
+		<talk>얼른 정신 바짝 차리시라옹! 야옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>5</index>
+		<type>NORMAL</type>
+		<talk>그나저나 후보님, 아직 하나 정해지지 않은 게 있는데…</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>6</index>
+		<type>NORMAL</type>
+		<talk>아무래도 해외 신문사이다 보니 영어로 인터뷰가 진행이 될 텐데,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>7</index>
+		<type>NORMAL</type>
+		<talk>따로 통역하시는 분을 불러서 진행하는 게 좋을까옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>8</index>
+		<type>NORMAL</type>
+		<talk>아니면 후보님의 실력을 한번 믿어볼까옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>9</index>
+		<type>NORMAL</type>
+		<talk>후보님도 어느 정도는 소통이 가능하지 않냐옹~&gt;ㅅ&lt;</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>10</index>
+		<type>NORMAL</type>
+		<talk>직접 소통은 아니더라도 매끄럽게 인터뷰를 진행할지,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>11</index>
+		<type>NORMAL</type>
+		<talk>완벽한 실력은 아니더라도 후보님의 입으로 직접 본인을 어필할지,</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>12</index>
+		<type>NORMAL</type>
+		<talk>둘 중에 하나를 골라주시면 되겠다냥~</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>13</index>
+		<type>CHECK</type>
+		<checkState>직접 진행한다</checkState>
+		<checkValue>통역을 요청한다</checkValue>
+		<checkL>SUCCESS</checkL>
+		<checkR>FAIL</checkR>
+	</xmlAlice>
+	<xmlAlice>
+		<index>14</index>
+		<type>SUCCESS</type>
+		<talk>우냐앙~ 후보님이 직접 영어 인터뷰를 하시는 거냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>15</index>
+		<type>SUCCESS</type>
+		<talk>정말 멋지다냥~♥ㅅ♥ </talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>16</index>
+		<type>SUCCESS</type>
+		<talk>그러면 그렇게 알고 바로 진행하겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>17</index>
+		<type>SUCCESS</type>
+		<talk>(며칠 후, 해외 외신과 진행한 고양이 후보의 인터뷰 기사가 인터넷에 올라왔다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>18</index>
+		<type>SUCCESS</type>
+		<talk>(완벽하지는 않지만 어느 정도 정돈된 실력으로
+인터뷰에 응하는 후보의 모습을 보며,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>19</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 새로운 모습을 발견했다는 평가가 대부분이었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>20</index>
+		<type>SUCCESS</type>
+		<talk>(해당 인터뷰는 유*브에서도 높은 조회수를 기록하며,)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>21</index>
+		<type>SUCCESS</type>
+		<talk>(고양이 후보의 외교지식이 4 상승했다!)</talk>
+		<upState>DIPLO</upState>
+		<upPoint>4</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>22</index>
+		<type>END</type>
+	</xmlAlice>
+	<xmlAlice>
+		<index>23</index>
+		<type>FAIL</type>
+		<talk>통역을 요청하시겠냐옹?</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>24</index>
+		<type>FAIL</type>
+		<talk>응 응, 통역의 도움을 받는다면
+직접 대화를 나누는 것보다 더 심도있는 이야기도 가능하겠지옹!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>25</index>
+		<type>FAIL</type>
+		<talk>그러면 그렇게 알고 바로 진행하겠다냥!</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>26</index>
+		<type>FAIL</type>
+		<talk>(며칠 후, 해외 외신과 진행한 고양이 후보의 인터뷰 기사가 인터넷에 올라왔다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>27</index>
+		<type>FAIL</type>
+		<talk>(통역을 통해 자신의 생각을 정확히 전달하는 고양이 후보의 모습을 보며)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>28</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 새로운 모습을 발견했다는 평가가 대부분이었다.)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>29</index>
+		<type>FAIL</type>
+		<talk>(진지하고 심도깊은 이야기를 나눈 질좋운 인터뷰 내용 덕에)</talk>
+	</xmlAlice>
+	<xmlAlice>
+		<index>30</index>
+		<type>FAIL</type>
+		<talk>(고양이 후보의 카리스마가 3 상승했다!)</talk>
+		<upState>CHAR</upState>
+		<upPoint>3</upPoint>
+	</xmlAlice>
+	<xmlAlice>
+		<index>31</index>
+		<type>END</type>
+	</xmlAlice>
+</ArrayOfDialogTable>
